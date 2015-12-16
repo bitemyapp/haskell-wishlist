@@ -24,7 +24,7 @@ Libraries wishlist and project ideas / learning opportunities
 
 ## Formal Methods
 
--[Verdi](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf) Framework for Implementing and
+- [Verdi](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf) Framework for Implementing and
 Formally Verifying Distributed Systems
 
 
