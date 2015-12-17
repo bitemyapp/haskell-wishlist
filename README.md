@@ -94,7 +94,7 @@ Don't really have something that is like the actual grammar of graphics yet.
 
 ## Testing
 
-- [https://github.com/github/scientist](Github's Scientist) Refactoring critical paths by observing errors and unexpected results
+- [Github's Scientist](https://github.com/github/scientist) Refactoring critical paths by observing errors and unexpected results
 
 
 ## Web
