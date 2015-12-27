@@ -27,6 +27,9 @@ Libraries wishlist and project ideas / learning opportunities
 - [Verdi](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf) Framework for Implementing and
 Formally Verifying Distributed Systems
 
+## Graphics
+
+- Cinder or Processing. Gloss exists, but is relatively low-level. Cinder and Processing are suitable for making art and can be used by new'ish programmers apparently.
 
 ## Machine Learning
 
