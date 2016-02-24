@@ -9,6 +9,9 @@ Libraries wishlist and project ideas / learning opportunities
 
 - [Helga](https://github.com/shaunduncan/helga) Chat bot that supports multiple backends
 
+## Continuous integration
+
+- A port of http://drone.io could be nifty.
 
 ## Content Server
 
